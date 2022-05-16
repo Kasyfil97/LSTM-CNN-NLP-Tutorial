@@ -1,0 +1,2 @@
+# LSTM-CNN-Tutorial-for-NLP
+This is tutorial for solving NLP problem. I used LSTM model in this tutorial. The dataset comes from kaggle that is disaster tweet. You can download the dataset in this link: https://www.kaggle.com/competitions/nlp-getting-started/data. This tutorial include how to squence word or sentences, padded them, and input them to the model. The target of this tutorial is finding whether the tweets for disaster or not
